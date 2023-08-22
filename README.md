@@ -1,2 +1,2 @@
-# bee-bridge
-Platform for beekeepers to match with farmers for pollination
+# poll8
+Platform for beekeepers/pollinators to match with farms.
