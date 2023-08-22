@@ -1,2 +1,2 @@
-# poll8
-Platform for beekeepers/pollinators to match with farms.
+# pollen8
+Platform for beekeepers / pollinators to match with farms.
