@@ -1,7 +1,7 @@
-![Pollenator](https://github.com/willgitdata/pollen8/blob/e1b379ed3408cf932c5c95cea52b6dc773d8c5cc/Screenshot%202023-08-22%20at%207.48.41%20PM.png)    
+![Pollenator](https://github.com/willgitdata/pollen8/blob/27037f57c396a1e1d54522a778d88ddc4f5bde8b/Screenshot%202023-08-22%20at%208.07.02%20PM.png)    
 
-### $\textcolor{blue}{\textsf{A platform for farm owners to match with pollination companies increasing natural pollination, decreasing costs for farmers, }}$ 
-### $\textcolor{blue}{\textsf{ improving the diets of our pollinators, and making the process more efficient for everyone involved.}}$ 
+### $\textcolor{green}{\textsf{A platform for farm owners to match with pollination companies increasing natural pollination, decreasing costs for farmers, }}$ 
+### $\textcolor{green}{\textsf{ improving the diets of our pollinators, and making the process more efficient for everyone involved.}}$ 
 
 
 <p align="center">
