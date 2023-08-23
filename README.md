@@ -1,2 +1,2 @@
 # Pollenate
-Platform for beekeepers / pollinators to match with farms.
+Platform for farm owners to match with pollination companies.
