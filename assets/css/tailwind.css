@@ -2599,6 +2599,17 @@ body {
     font-size: 1.5rem;
     line-height: 2rem;
   }
+  .navbar-logo {
+    position: fixed; /* this makes it fixed on the page */
+    top: 10px;       /* distance from the top */
+    left: 10px;      /* distance from the left */
+    z-index: 1000;   /* makes sure it stays on top of other elements */
+}
+
+.header-logo {
+    width: 50px;    /* adjust this value for your preferred size */
+    height: auto;   /* maintains aspect ratio */
+}
 }
 
 @media (min-width: 1320px) {
