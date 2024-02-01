@@ -2607,7 +2607,7 @@ body {
 }
 
 .header-logo {
-    width: 275px;    /* adjust this value for your preferred size */
+    width: 100px;    /* adjust this value for your preferred size */
     height: auto;   /* maintains aspect ratio */
 }
 }
