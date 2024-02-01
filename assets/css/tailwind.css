@@ -1583,7 +1583,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 
 .text-primary {
   --tw-text-opacity: 1;
-  color: rgb(48 86 211 / var(--tw-text-opacity));
+  color: rgb(243 244 254 / var(--tw-text-opacity));
 }
 
 .text-\[\#FFC954\] {
