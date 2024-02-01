@@ -43,25 +43,22 @@
                             <span class="relative my-[6px] block h-[2px] w-[30px] bg-white"></span>
                         </button>
                         <nav id="navbarCollapse" class="absolute right-4 top-full hidden w-full max-w-[250px] rounded-lg bg-white py-5 shadow-lg lg:static lg:block lg:w-full lg:max-w-full lg:bg-transparent lg:py-0 lg:px-4 lg:shadow-none xl:px-6">
-                          <div class="flex items-center justify-center space-x-4">  
-                          <ul class="block lg:flex">
-                                <li class="group relative">
-                                    <a href="#home" class="ud-menu-scroll mx-8 flex py-2 text-base text-primary group-hover:text-primary lg:mr-0 lg:inline-flex lg:py-6 lg:px-0 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70">Home</a>
-                                </li>
-                                <li class="group relative">
-                                    <a href="#about" class="ud-menu-scroll mx-8 flex py-2 text-base text-primary group-hover:text-primary lg:mr-0 lg:ml-7 lg:inline-flex lg:py-6 lg:px-0 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 xl:ml-12">About</a>
-                                </li>
-                                <li class="group relative">
-                                    <a href="#signup" class="ud-menu-scroll mx-8 flex py-2 text-base text-primary group-hover:text-primary lg:mr-0 lg:ml-7 lg:inline-flex lg:py-6 lg:px-0 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 xl:ml-12">Sign In</a>
-                                </li>
-                                <li class="group relative">
-                                    <a href="#signin" class="ud-menu-scroll mx-8 flex py-2 text-base text-primary group-hover:text-primary lg:mr-0 lg:ml-7 lg:inline-flex lg:py-6 lg:px-0 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 xl:ml-12">Sign Up</a>
-                                </li>
-                                <li class="group relative">
-                                    <a href="#contact" class="ud-menu-scroll mx-8 flex py-2 text-base text-primary group-hover:text-primary lg:mr-0 lg:ml-7 lg:inline-flex lg:py-6 lg:px-0 lg:text-white lg:group-hover:text-white lg:group-hover:opacity-70 xl:ml-12">Contact</a>
-                                </li>
-                            </ul>
+                          <div class="ud-header absolute top-0 left-0 z-40 w-full items-center bg-transparent">
+                            <div class="container">
+                                <div class="flex items-center justify-center">
+                                    <!-- Centered Navbar Section -->
+                                    <nav id="navbarCollapse" class="flex justify-center items-center space-x-4">
+                                        <ul class="flex">
+                                            <li><a href="#home" class="py-2 px-4">Home</a></li>
+                                            <li><a href="#about" class="py-2 px-4">About</a></li>
+                                            <li><a href="#signup" class="py-2 px-4">Sign In</a></li>
+                                            <li><a href="#signin" class="py-2 px-4">Sign Up</a></li>
+                                            <li><a href="#contact" class="py-2 px-4">Contact</a></li>
+                                        </ul>
+                                    </nav>
+                                </div>
                             </div>
+                        </div>
                         </nav>
                     </div>
                 </div>
@@ -2145,7 +2142,7 @@
                     type="text"
                     name="fullName"
                     placeholder="Barry Benson"
-                    class="w-full border-0 text-primary border-b border-[#f1f1f1] py-4 focus:border-primary focus:outline-none"
+                    class="w-full border-0 text-body-color border-b border-[#f1f1f1] py-4 focus:border-primary focus:outline-none"
                   />
                 </div>
                 <div class="mb-6">
@@ -2156,7 +2153,7 @@
                     type="email"
                     name="email"
                     placeholder="bbenson@beemail.com"
-                    class="w-full border-0 text-primary border-b border-[#f1f1f1] py-4 focus:border-primary focus:outline-none"
+                    class="w-full border-0 text-body-color border-b border-[#f1f1f1] py-4 focus:border-primary focus:outline-none"
                   />
                 </div>
                 <div class="mb-6">
@@ -2167,7 +2164,7 @@
                     type="text"
                     name="phone"
                     placeholder="+7 (283) 843-2337"
-                    class="w-full border-0 text-primary border-[#f1f1f1] py-4 focus:border-primary focus:outline-none"
+                    class="w-full border-0 text-body-color border-b border-[#f1f1f1] py-4 focus:border-primary focus:outline-none"
                   />
                 </div>
                 <div class="mb-6">
@@ -2178,7 +2175,7 @@
                     name="message"
                     rows="1"
                     placeholder="type your message here"
-                    class="w-full resize-none text-primary border-b border-[#f1f1f1] py-4 focus:border-primary focus:outline-none"
+                    class="w-full resize-none text-body-color border-b border-[#f1f1f1] py-4 focus:border-primary focus:outline-none"
                   ></textarea>
                 </div>
                 <div class="mb-0">
