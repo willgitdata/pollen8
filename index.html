@@ -22,49 +22,34 @@
   </head>
   <body>
     <!-- ====== Navbar Section Start ====== -->
-    <div class="ud-header absolute top-0 left-0 z-40 w-full items-center bg-transparent">
-        <div class="container">
-            <div class="relative -mx-4 flex items-center justify-between">
-                <!-- Logo Section -->
-                <div class="w-60 max-w-full px-4">
-                    <div class="container">
-                        <a href="index.html" class="navbar-logo">
-                            <img src="logo1.png" alt="logo" class="header-logo" />
-                        </a>
-                    </div>
-                </div>
+    <div class="ud-header absolute top-0 left-0 z-40 w-full bg-transparent">
+      <div class="container mx-auto flex items-center justify-between px-4">
+          <!-- Logo Section Simplified -->
+          <a href="index.html" class="w-60 max-w-full">
+              <img src="logo1.png" alt="logo" class="header-logo" />
+          </a>
 
                 <!-- Navbar Section -->
                 <div class="flex w-full items-center justify-between px-4">
                     <div>
-                        <button id="navbarToggler" class="absolute right-4 top-1/2 -translate-y-1/2 rounded-lg px-3 py-[6px] ring-primary focus:ring-2 lg:hidden">
-                            <span class="relative my-[6px] block h-[2px] w-[30px] bg-white"></span>
+                      <button id="navbarToggler" class="lg:hidden rounded-lg p-2 ring-primary focus:ring-2">
+                        <span class="relative my-[6px] block h-[2px] w-[30px] bg-white"></span>
                             <span class="relative my-[6px] block h-[2px] w-[30px] bg-white"></span>
                             <span class="relative my-[6px] block h-[2px] w-[30px] bg-white"></span>
                         </button>
-                        <nav id="navbarCollapse" class="absolute right-4 top-full hidden w-full max-w-[250px] rounded-lg bg-white py-5 shadow-lg lg:static lg:block lg:w-full lg:max-w-full lg:bg-transparent lg:py-0 lg:px-4 lg:shadow-none xl:px-6">
-                          <div class="ud-header absolute top-0 left-0 z-40 w-full items-center bg-transparent">
-                            <div class="container">
-                                <div class="flex items-center justify-center">
-                                    <!-- Centered Navbar Section -->
-                                    <nav id="navbarCollapse" class="flex justify-center items-center space-x-4">
-                                        <ul class="flex">
-                                            <li><a href="#home" class="py-2 px-4">Home</a></li>
-                                            <li><a href="#about" class="py-2 px-4">About</a></li>
-                                            <li><a href="#signup" class="py-2 px-4">Sign In</a></li>
-                                            <li><a href="#signin" class="py-2 px-4">Sign Up</a></li>
-                                            <li><a href="#contact" class="py-2 px-4">Contact</a></li>
-                                        </ul>
-                                    </nav>
-                                </div>
-                            </div>
-                        </div>
-                        </nav>
+                        <nav id="navbarCollapse" class="hidden lg:flex lg:items-center lg:justify-center lg:w-full">
+                          <ul class="flex justify-center space-x-4">
+                              <li><a href="#home" class="py-2 text-base text-primary lg:text-white">Home</a></li>
+                              <li><a href="#about" class="py-2 text-base text-primary lg:text-white">About</a></li>
+                              <li><a href="#signup" class="py-2 text-base text-primary lg:text-white">Sign In</a></li>
+                              <li><a href="#signin" class="py-2 text-base text-primary lg:text-white">Sign Up</a></li>
+                              <li><a href="#contact" class="py-2 text-base text-primary lg:text-white">Contact</a></li>
+                          </ul>
+                      </nav>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
     <!-- ====== Navbar Section End -->
 
     <!-- ====== Hero Section Start -->
