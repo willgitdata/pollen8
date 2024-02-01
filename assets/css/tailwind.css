@@ -2601,7 +2601,7 @@ body {
   }
   .navbar-logo {
     position: fixed; /* this makes it fixed on the page */
-    top: 15px;       /* distance from the top */
+    top: 10px;       /* distance from the top */
     left: 10px;      /* distance from the left */
     z-index: 1000;   /* makes sure it stays on top of other elements */
 }
