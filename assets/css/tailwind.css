@@ -1918,7 +1918,7 @@ body {
 
 .hover\:text-primary:hover {
   --tw-text-opacity: 1;
-  color: rgb(48 86 211 / var(--tw-text-opacity));
+  color: rgb(255 201 84 / var(--tw-text-opacity));
 }
 
 .hover\:text-dark:hover {
