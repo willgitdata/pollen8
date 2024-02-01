@@ -18,7 +18,7 @@
   /* 2 */
   border-style: solid;
   /* 2 */
-  border-color: #e5e7eb;
+  border-color: #FFC954;
   /* 2 */
 }
 
@@ -355,7 +355,7 @@ input::-moz-placeholder,
 textarea::-moz-placeholder {
   opacity: 1;
   /* 1 */
-  color: #9ca3af;
+  color: #FFC954;
   /* 2 */
 }
 
@@ -363,7 +363,7 @@ input:-ms-input-placeholder,
 textarea:-ms-input-placeholder {
   opacity: 1;
   /* 1 */
-  color: #9ca3af;
+  color: #FFC954;
   /* 2 */
 }
 
@@ -371,7 +371,7 @@ input::placeholder,
 textarea::placeholder {
   opacity: 1;
   /* 1 */
-  color: #9ca3af;
+  color: #FFC954;
   /* 2 */
 }
 
@@ -1105,12 +1105,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-color: transparent;
 }
 
-.border-\[\#F2F3F8\] {
+.border-\[\#FFC954\] {
   --tw-border-opacity: 1;
   border-color: rgb(242 243 248 / var(--tw-border-opacity));
 }
 
-.border-\[\#f1f1f1\] {
+.border-\[\#FFC954\] {
   --tw-border-opacity: 1;
   border-color: rgb(241 241 241 / var(--tw-border-opacity));
 }
@@ -1120,12 +1120,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-color: rgb(48 86 211 / var(--tw-border-opacity));
 }
 
-.border-\[\#D4DEFF\] {
+.border-\[\#FFC954\] {
   --tw-border-opacity: 1;
   border-color: rgb(212 222 255 / var(--tw-border-opacity));
 }
 
-.border-\[\#F3F4FE\] {
+.border-\[\#FFC954\] {
   --tw-border-opacity: 1;
   border-color: rgb(243 244 254 / var(--tw-border-opacity));
 }
@@ -1152,7 +1152,7 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(255 201 84 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#f5f8ff\] {
+.bg-\[\#FFC954\] {
   --tw-bg-opacity: 1;
   background-color: rgb(245 248 255 / var(--tw-bg-opacity));
 }
@@ -1162,12 +1162,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(33 43 54 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#f3f4fe\] {
+.bg-\[\#FFC954\] {
   --tw-bg-opacity: 1;
   background-color: rgb(243 244 254 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#13C296\] {
+.bg-\[\#FFC954\] {
   --tw-bg-opacity: 1;
   background-color: rgb(19 194 150 / var(--tw-bg-opacity));
 }
@@ -1177,37 +1177,37 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(19 194 150 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#f3f4ff\] {
+.bg-\[\#FFC954\] {
   --tw-bg-opacity: 1;
   background-color: rgb(243 244 255 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#afb2b5\] {
+.bg-\[\#FFC954\] {
   --tw-bg-opacity: 1;
   background-color: rgb(175 178 181 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#F4F7FF\] {
+.bg-\[\#FFC954\] {
   --tw-bg-opacity: 1;
   background-color: rgb(244 247 255 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#FCFDFE\] {
+.bg-\[\#FFC954\] {
   --tw-bg-opacity: 1;
   background-color: rgb(252 253 254 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#4064AC\] {
+.bg-\[\#FFC954\] {
   --tw-bg-opacity: 1;
   background-color: rgb(64 100 172 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#1C9CEA\] {
+.bg-\[\#FFC954\] {
   --tw-bg-opacity: 1;
   background-color: rgb(28 156 234 / var(--tw-bg-opacity));
 }
 
-.bg-\[\#D64937\] {
+.bg-\[\#FFC954\] {
   --tw-bg-opacity: 1;
   background-color: rgb(214 73 55 / var(--tw-bg-opacity));
 }
@@ -1229,13 +1229,13 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .from-dark-700 {
-  --tw-gradient-from: #090e34b3;
+  --tw-gradient-from: #FFC954b3;
   --tw-gradient-stops: var(--tw-gradient-from),
     var(--tw-gradient-to, rgb(9 14 52 / 0));
 }
 
 .from-primary {
-  --tw-gradient-from: #3056d3;
+  --tw-gradient-from: #FFC954;
   --tw-gradient-stops: var(--tw-gradient-from),
     var(--tw-gradient-to, rgb(48 86 211 / 0));
 }
@@ -1244,8 +1244,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-gradient-to: transparent;
 }
 
-.to-\[\#179BEE\] {
-  --tw-gradient-to: #179bee;
+.to-\[\#FFC954\] {
+  --tw-gradient-to: #FFC954;
 }
 
 .fill-current {
@@ -1568,15 +1568,15 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .text-dark-700 {
-  color: #090e34b3;
+  color: #FFC954b3;
 }
 
-.text-\[\#f3f4fe\] {
+.text-\[\#FFC954\] {
   --tw-text-opacity: 1;
   color: rgb(243 244 254 / var(--tw-text-opacity));
 }
 
-.text-\[\#dddddd\] {
+.text-\[\#FFC954\] {
   --tw-text-opacity: 1;
   color: rgb(221 221 221 / var(--tw-text-opacity));
 }
@@ -1586,12 +1586,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(48 86 211 / var(--tw-text-opacity));
 }
 
-.text-\[\#cdced6\] {
+.text-\[\#FFC954\] {
   --tw-text-opacity: 1;
   color: rgb(205 206 214 / var(--tw-text-opacity));
 }
 
-.text-\[\#e4e4e4\] {
+.text-\[\#FFC954\] {
   --tw-text-opacity: 1;
   color: rgb(228 228 228 / var(--tw-text-opacity));
 }
@@ -1601,17 +1601,17 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(33 43 54 / var(--tw-text-opacity));
 }
 
-.text-\[\#fbb040\] {
+.text-\[\#FFC954\] {
   --tw-text-opacity: 1;
   color: rgb(251 176 64 / var(--tw-text-opacity));
 }
 
-.text-\[\#969696\] {
+.text-\[\#FFC954\] {
   --tw-text-opacity: 1;
   color: rgb(150 150 150 / var(--tw-text-opacity));
 }
 
-.text-\[\#adadad\] {
+.text-\[\#FFC954\] {
   --tw-text-opacity: 1;
   color: rgb(173 173 173 / var(--tw-text-opacity));
 }
@@ -1631,17 +1631,17 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(255 255 255 / var(--tw-placeholder-opacity));
 }
 
-.placeholder-\[\#ACB6BE\]::-moz-placeholder {
+.placeholder-\[\#FFC954\]::-moz-placeholder {
   --tw-placeholder-opacity: 1;
   color: rgb(172 182 190 / var(--tw-placeholder-opacity));
 }
 
-.placeholder-\[\#ACB6BE\]:-ms-input-placeholder {
+.placeholder-\[\#FFC954\]:-ms-input-placeholder {
   --tw-placeholder-opacity: 1;
   color: rgb(172 182 190 / var(--tw-placeholder-opacity));
 }
 
-.placeholder-\[\#ACB6BE\]::placeholder {
+.placeholder-\[\#FFC954\]::placeholder {
   --tw-placeholder-opacity: 1;
   color: rgb(172 182 190 / var(--tw-placeholder-opacity));
 }
@@ -1668,7 +1668,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .shadow-testimonial {
-  --tw-shadow: 0px 60px 120px -20px #ebeffd;
+  --tw-shadow: 0px 60px 120px -20px #FFC954;
   --tw-shadow-colored: 0px 60px 120px -20px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),
     var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
